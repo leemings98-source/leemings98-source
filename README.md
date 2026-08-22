@@ -29,10 +29,13 @@ My interest in numbers and translating info into something more understandable h
 | Data Analysis                                | Plant Compatibility|
 
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning/ Projects 
 
 - Fortifying all my foundations, mainly attempting to finish all DataLemur Interview Questions without external(chatgpt) aid.
-
+- Attempting several other Kaggel Dataset projects that peaked my interest
+       - E-Commerce Sales Performance Analysis
+       - Student Performance & Study Habits Dataset
+       - Diabetes Risk Prediction Dataset
 
 ## Tools
 
