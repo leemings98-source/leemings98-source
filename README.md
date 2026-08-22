@@ -24,15 +24,14 @@ My interest in numbers and translating info into something more understandable h
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data Visualization                           | Chocolate Retail Sales Report |
-| Data Cleaning and Analysis                   | Chocolate Retail Sales Report |
+| Data Cleaning and Analysis                   | Retail Sales Report |
 | Data Cleaning and Analysis                   | Penang Weather Analysis & Upcoming Weather Forecast|
 | Data Analysis                                | Plant Compatibility|
-| Web Scraping                                 | Data From Books to Scrape|
 
 
 ## 🌱 Currently Learning 
 
-- Fortifying all my foundations, mainly attempting to finish all DataLemur Interview Questions without external(chatgpt) aid
+- Fortifying all my foundations, mainly attempting to finish all DataLemur Interview Questions without external(chatgpt) aid.
 
 
 ## Tools
@@ -61,6 +60,6 @@ My interest in numbers and translating info into something more understandable h
 
 ## Projects
 - Chocolate Sales Report
+- Retail Sales Report
 - Penang Weather Forecast
 - Plant Compatibility
-- Data From Books to Scrape
