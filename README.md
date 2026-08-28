@@ -62,7 +62,7 @@ My interest in numbers and translating info into something more understandable h
 </div>
 
 ## Projects
-- Chocolate Sales Report
+- [Chocolate Retail Sales Report](https://github.com/leemings98-source/ChocolateRetail/blob/main/README.md)
 - Retail Sales Report
 - Penang Weather Forecast
 - Plant Compatibility
