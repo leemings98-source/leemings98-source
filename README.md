@@ -36,6 +36,7 @@ My interest in numbers and translating info into something more understandable h
   " E-Commerce Sales Performance Analysis",
   " Student Performance & Study Habits Dataset",
   " Diabetes Risk Prediction Dataset"
+- Diving headfirst into those free Harvard courses in Data (Wheee!) 
 
 ## Tools
 
