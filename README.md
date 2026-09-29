@@ -65,5 +65,5 @@ My interest in numbers and translating info into something more understandable h
 ## Projects
 - [Retail Sales Report](https://github.com/leemings98-source/RetailSales/blob/main/README.md)
 - [Chocolate Retail Sales Report](https://github.com/leemings98-source/ChocolateRetail/blob/main/README.md)
-- Penang Weather Forecast
+- [Penang Weather Analysis & Upcoming Weather Forecast](https://github.com/leemings98-source/Penang-Weather-Report)
 - Plant Compatibility
