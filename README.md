@@ -25,7 +25,7 @@ My interest in numbers and translating info into something more understandable h
 |-----------------------------------------------|----------------------------|
 | Data Cleaning and Analysis                   | [Retail Sales Report](https://github.com/leemings98-source/RetailSales/blob/main/README.md) |
 | Data Visualization                           | [Chocolate Retail Sales Report](https://github.com/leemings98-source/ChocolateRetail/blob/main/README.md)|
-| Data Cleaning and Analysis                   | Penang Weather Analysis & Upcoming Weather Forecast|
+| Data Cleaning and Analysis                   | [Penang Weather Analysis & Upcoming Weather Forecast](https://github.com/leemings98-source/Penang-Weather-Report)|
 | Data Analysis                                | Plant Compatibility|
 
 
